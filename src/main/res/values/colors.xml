@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#CA2626</color>
+    <color name="colorFramheader">#569928</color>
+    <color name="colorTextputih">#FFFFFF</color>
+    <color name="colorBuutonR">#DF3131</color>
+    <color name="colorBuutonL">#F04343</color>
+
+</resources>
